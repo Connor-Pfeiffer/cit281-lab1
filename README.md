@@ -1,5 +1,5 @@
 # Lab 1
-# [RETURN TO HOMEPAGE](https://connor-pfeiffer.github.io/)
+[RETURN TO HOMEPAGE](https://connor-pfeiffer.github.io/)
 
 ## Lab goals and outcomes:
 
